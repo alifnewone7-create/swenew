@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with Iamhear
 
-## Built with v0
+## Built By Iamhear Dev
 
 This repository is linked to iamhear project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
 
